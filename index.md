@@ -8,7 +8,7 @@ titleTemplate: 记录回忆，知识和畅想的地方
 hero:
   name: endlernal
   text: 记录回忆，知识和畅想的地方
-  tagline: 以 于慧中 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  tagline: 我是一名在 NJIT 就读的大二同学，目前学习于 LLM 与 GEMM 方向，是一名互联网技术爱好者，同时也是数字游民,专注于算法、开发、通信技术与广泛互联网技术研究、开源思想传播。你可以通过 QQ 与我联系。←
   image:
     src: /logo.svg
     alt: Vitest
