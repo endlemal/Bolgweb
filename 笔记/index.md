@@ -9,7 +9,7 @@
 很高兴你对 [于慧中](https://nolebase.ayaka.io) 感兴趣！
 
 ## 我的Blog
-这是一个在obsidian中编辑的内容， 
+这是一个在obsidian中编辑的内容， 似乎没毛病
 
 ### 背景介绍
 
