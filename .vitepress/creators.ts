@@ -22,7 +22,7 @@ export const creators: Creator[] = [
   {
     name: 'endlemal',
     avatar: '',
-    username: 'nekomeowww',
+    username: 'endlemal',
     title: '于慧中的左护法',
     desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
     links: [
@@ -35,7 +35,7 @@ export const creators: Creator[] = [
   {
     name: 'happykl-cn',
     avatar: '',
-    username: 'LittleSound',
+    username: 'happykl-cn',
     title: '于慧中的右护法',
     desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
     links: [
